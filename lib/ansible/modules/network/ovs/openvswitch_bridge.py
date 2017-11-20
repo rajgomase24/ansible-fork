@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding: utf-8 -*-
-
+# dummy comment testing
 # (c) 2013, David Stygstra <david.stygstra@gmail.com>
 # Portions copyright @ 2015 VMware, Inc.
 # GNU General Public License v3.0+ (see COPYING or https://www.gnu.org/licenses/gpl-3.0.txt)
